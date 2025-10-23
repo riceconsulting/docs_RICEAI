@@ -1,0 +1,5 @@
+{
+  "name": "Freebie Finder",
+  "description": "A single-page React application showcasing free resources for creatives, featuring a grid layout and a detailed guide for each item.",
+  "requestFramePermissions": []
+}
